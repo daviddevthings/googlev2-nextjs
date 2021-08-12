@@ -41,7 +41,7 @@ export default function Home() {
           {/*Icon*/}
           <ViewGridIcon className="h-10 w-10 p-2 rounded-full hover:bg-gray-100 cursor-pointer" />
           {/*Avatar*/}
-          <Avatar url={"https://coaching.papareact.com/ai9"}>
+          <Avatar url={"https://cdn.discordapp.com/avatars/448884623888351242/b8ad90a61d49fc3e91460cffe6e73df6.png"}>
           </Avatar>
         </div>
       </header>

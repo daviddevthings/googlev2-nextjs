@@ -34,7 +34,7 @@ function Header() {
                     <SearchIcon className="h-6 text-blue-500 hidden sm:inline-flex"></SearchIcon>
                     <button hidden type="submit" onClick={search}>Search</button>
                 </form>
-                <Avatar className="ml-auto" url={"https://coaching.papareact.com/ai9"}></Avatar>
+                <Avatar className="ml-auto" url={"https://cdn.discordapp.com/avatars/448884623888351242/b8ad90a61d49fc3e91460cffe6e73df6.png"}></Avatar>
             </div>
 
             {/* HeaderOptions */}
